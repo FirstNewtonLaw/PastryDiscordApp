@@ -2,11 +2,7 @@
 
 This Privacy Policy describes how Pastry collects, uses, stores, and discloses personal information in compliance with the General Data Protection Regulation (GDPR). Please read this policy carefully to understand how we handle your personal information. By using our services or providing us with your personal information, you consent to the practices described in this policy.
 
-## Data Controller
-
-The data controller responsible for the processing of your personal information is Sirius Software Ltd.
-
-## Types of Personal Information Collected
+## Types of Information Collected
 
 We may collect and process the following types of personal information:
 
